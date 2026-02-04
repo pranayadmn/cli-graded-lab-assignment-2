@@ -1,0 +1,2 @@
+this is a simple test file
+shell scripting is powerful and flexible
